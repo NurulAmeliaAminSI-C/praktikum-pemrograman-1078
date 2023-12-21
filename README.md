@@ -3,4 +3,4 @@
 <div> NIM :  231031078</div>
 <div> Prodi: Sistem Infromasi C </div>
 
-*praktikum 1: Pengenalan Variabel `praktikum c4.py`
+*praktikum 1: Pengenalan Variabel `praktikum c1.py`
